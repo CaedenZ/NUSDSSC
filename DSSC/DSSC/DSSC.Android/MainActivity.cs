@@ -18,7 +18,7 @@ namespace DSSC.Droid
 			ToolbarResource = Resource.Layout.Toolbar; 
 
 			base.OnCreate (bundle);
-
+            ///nnhfjfjfghf
 			global::Xamarin.Forms.Forms.Init (this, bundle);
 			LoadApplication (new DSSC.App ());
 		}
